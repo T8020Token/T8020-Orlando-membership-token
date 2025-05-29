@@ -1,0 +1,88 @@
+{
+  "description": "The T8020 Orlando Membership Token is a limited-edition ERC-1155 token on the Polygon network, granting exclusive access to premier T8020 Community events and governance in Orlando, Florida—a vibrant hub attracting 75 million visitors annually to iconic destinations like Disney World, Universal, and Sea World. Powered by blockchain and AI-driven verification, this token empowers holders to combat misinformation, promoting transparency and truth within the Orlando community. Early adopters gain priority access to local events, exclusive educational content tailored to Orlando’s unique cultural and social landscape, and enhanced influence in community governance. Join a visionary Orlando-based community dedicated to trust, connection, and honest information sharing.",
+  "name": "T8020 Orlando Membership Token",
+  "metadataVersion": "1.0.0",
+  "background_color": "00000000",
+  "symbol": "T8020ORL",
+  "license": {
+    "type": "CC BY-NC 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  "external_url": "https://t8020community.com",
+  "frontendImplementation": {
+    "component": "ClaimButton",
+    "purpose": "Facilitates claiming the T8020 Orlando Membership Token (tokenId: 0) from the Edition Drop contract on Polygon using the React SDK.",
+    "url": "https://t8020-orlando-membership-token.vercel.app/",
+    "instructions": "Link your approved crypto wallet to the Polygon network and use the Claim Button on a T8020 Community-approved site to complete KYC verification, securing your exclusive token effortlessly."
+  },
+  "metadataIntegrity": {
+    "hash": "e7a3e9f0e3b6b3f1e8c3b0b8b9b4b2b1b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0",
+    "note": "Metadata uploaded to IPFS at CID ipfs://bafkreie65s2muke6xuhxlz5wiekhe55qjdfsv6rgn45aa7cgdl5blbdrti and hash verified"
+  },
+  "image": "ipfs://bafybeiaq5hqqq2qe2tkcccxi3f5pvfct5n3aiqjyubtklid7ph5vtoqq4a",
+  "creator": {
+    "name": "T8020 Orlando Membership Token",
+    "website": "https://t8020community.com",
+    "token_address": "0x1fa04Cb1E4726930d865EA2BBb3ABedcDF1d7F28"
+  },
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Level",
+      "value": "10"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Polygon"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-1155"
+    },
+    {
+      "trait_type": "Membership Type",
+      "value": "Orlando Membership Token Holder"
+    },
+    {
+      "trait_type": "Governance Rights",
+      "value": "Voting"
+    },
+    {
+      "trait_type": "Event Access",
+      "value": "Exclusive"
+    },
+    {
+      "trait_type": "Issue Date",
+      "value": "2025-05-20"
+    }
+  ],
+  "royalties": {
+    "recipient": "0x85395CbAC236Ca8565E04dB34b24c41d1d0A262a",
+    "percentage": 5
+  },
+  "privacy_policy": {
+    "cid": "bafkreifwrlph3zz3ztvyoatywqzetabum33orz43hhmg37pe3k6ozd6mie",
+    "url": "https://ipfs.io/ipfs/bafkreifwrlph3zz3ztvyoatywqzetabum33orz43hhmg37pe3k6ozd6mie"
+  },
+  "tokenId": 0,
+  "supply": {
+    "type": "Limited",
+    "maxSupply": 1500000
+  },
+  "properties": {
+    "token_type": "semi-fungible",
+    "mint_price": "5 POL"
+  },
+  "collection": {
+    "name": "T8020 Orlando Membership Tokens",
+    "contractAddress": "0x1fa04Cb1E4726930d865EA2BBb3ABedcDF1d7F28",
+    "family": "T8020 Community"
+  }
+}
